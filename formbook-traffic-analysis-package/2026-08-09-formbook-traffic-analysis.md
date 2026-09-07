@@ -1,8 +1,11 @@
 # Traffic Analysis Report: FormBook C2 Activity on Host 172.16.8.49
 
 **Analyst:** CJ Turesko
+
 **Report date:** 2026-09-06
+
 **Classification:** Training exercise (not a real-world incident)
+
 **Source material:** Public pcap from the malware-traffic-analysis.net post ["2026-08-09: Traffic Analysis Exercise: First to Last"](https://www.malware-traffic-analysis.net/2026/08/09/index.html)
 
 > This write-up is based on a publicly available training pcap, analyzed independently in Wireshark as SOC-analyst practice. It is not a redistribution of the original file; the pcap itself remains available directly from malware-traffic-analysis.net under its own access terms.
